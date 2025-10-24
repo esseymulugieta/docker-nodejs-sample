@@ -1,14 +1,14 @@
-# **Thema:** Erstellen einer ToDo-Applikation mit Markdown, Git, GitHub und Docker
+# **Thema:** Installation ToDo-Applikation
 
-In dieser Abschlussaufgabe werden alle erlernten Fähigkeiten in den Bereichen **Markdown**, **Git**, **GitHub** und **Docker** kombiniert. Die Aufgabe besteht darin, eine ToDo-Applikation zu erstellen und diese in einem Docker-Container bereitzustellen.
+Dieses README enthält alle schritte wie du problemlos den ToDo-Applikation installieren kannst.
 
-### **Aufgabenstellung:**
+1. ## Voraussetzungen
 
-1. **GitHub-Fork erstellen:**
-   - Erstelle einen **Fork** des folgenden GitHub-Repositories: [docker-nodejs-sample](https://github.com/ICT-BLJ/docker-nodejs-sample).
-   - Clone deinen Fork lokal auf deinen Computer.
+   Überprüfe ob du die folgende Programme auf deinem Rechner hast:
+   - Git
+   - Docker Desktop
 
-2. **Erstellen einer README-Datei in Markdown:**
+1. ## **Repository von Github clonen**
    - Erstelle eine **README.md** Datei im Root-Verzeichnis des Projekts.
    - Die README soll alle Schritte zur **Installation des Projekts** enthalten. Dazu gehören:
      - Klonen des Repositories
